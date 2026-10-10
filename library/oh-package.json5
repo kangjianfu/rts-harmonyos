@@ -1,0 +1,9 @@
+{
+  "name": "rts",
+  "version": "0.0.1",
+  "description": "鸿蒙超低延迟拉流（WHEP/RTS）：ICE-lite + DTLS-SRTP（开发中）",
+  "main": "Index.ets",
+  "author": "shichuangyun",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}
